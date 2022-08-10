@@ -1,0 +1,5 @@
+-- INFORMATIONS
+-- unlock all ranks script
+-- working only for PROXY TEAM
+-- if you cant get throught door execute double if still execute again
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pastor1234567654re4fcvf/REALISTIC-WAR-SCRIPTS/main/unlock%20ranks.lua"))()
